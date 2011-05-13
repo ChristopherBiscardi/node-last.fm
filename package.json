@@ -1,0 +1,17 @@
+{
+  "name": "last.fm",
+  "description": "last.fm api for node.js",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ChristopherBiscardi/node-last.fm.git"
+  },
+  "author": "Christopher Biscardi <biscarch@sketcht.com> (ChristopherBiscardi.com)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "unknown"
+  }
+}
